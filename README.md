@@ -1,4 +1,3 @@
-# Readme.md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,45:0F766E,100:14B8A6&height=240&section=header&text=SHRADDHA%20PATIL&fontSize=70&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" alt="Shraddha Patil" width="100%"/>
@@ -10,7 +9,6 @@
 ### DEVOPS INTERN
 
 <a href="#stack"><img src="https://img.shields.io/badge/STACK-0F766E?style=for-the-badge" alt="Stack"/></a>
-<a href="#workflow"><img src="https://img.shields.io/badge/WORKFLOW-0F766E?style=for-the-badge" alt="Workflow"/></a>
 <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0F766E?style=for-the-badge" alt="Projects"/></a>
 <a href="#github"><img src="https://img.shields.io/badge/GITHUB-0F766E?style=for-the-badge" alt="GitHub"/></a>
 <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0F766E?style=for-the-badge" alt="Contact"/></a>
@@ -22,6 +20,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/ROLE-DevOps_Intern-0F766E?style=for-the-badge&labelColor=0B1020" alt="ROLE: DevOps Intern"/>
 <img src="https://img.shields.io/badge/COMPANY-CloudBlitz_Technology-0F766E?style=for-the-badge&labelColor=0B1020" alt="COMPANY: CloudBlitz Technology"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS_%C2%B7_Azure-0F766E?style=for-the-badge&labelColor=0B1020" alt="CLOUD: AWS and Azure"/>
+<img src="https://img.shields.io/badge/CI-Jenkins-0F766E?style=for-the-badge&labelColor=0B1020" alt="CI: Jenkins"/>
 <!-- TODO: add a LOCATION badge if you want one, e.g.
 <img src="https://img.shields.io/badge/LOCATION-Your_City%2C_India-0F766E?style=for-the-badge&labelColor=0B1020" alt="LOCATION"/> -->
 </p>
@@ -49,39 +49,19 @@ and nothing depends on "it works on my machine."
 
 <br/>
 
-<!-- TODO: keep only the tools you have actually used. Delete the rest. -->
+<!-- TODO: add badges for the microservices and student CRUD projects once you share their stacks (language, framework, database, Docker). -->
 
 <p align="center"><b><code>CLOUD</code></b><br/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS"/> <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square" alt="EC2"/> <img src="https://img.shields.io/badge/S3-FF9900?style=flat-square" alt="S3"/> <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square" alt="IAM"/> <img src="https://img.shields.io/badge/VPC-8C4FFF?style=flat-square" alt="VPC"/></p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS"/> <img src="https://img.shields.io/badge/S3-FF9900?style=flat-square" alt="S3"/> <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square" alt="IAM"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/> <img src="https://img.shields.io/badge/Azure_VM-0078D4?style=flat-square" alt="Azure VM"/> <img src="https://img.shields.io/badge/Azure_NSG-0078D4?style=flat-square" alt="Azure NSG"/></p>
 
-<p align="center"><b><code>CONTAINERS</code></b><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/></p>
+<p align="center"><b><code>CI/CD</code></b><br/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/></p>
 
-<p align="center"><b><code>DELIVERY</code></b><br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/></p>
+<p align="center"><b><code>SYSTEMS · TOOLS</code></b><br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/SSH-000000?style=flat-square" alt="SSH"/> <img src="https://img.shields.io/badge/systemctl-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="systemctl"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></p>
 
-<p align="center"><b><code>INFRASTRUCTURE AS CODE</code></b><br/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/></p>
-
-<p align="center"><b><code>SCRIPTING · TOOLS</code></b><br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/></p>
-
-<br/>
-
-<a name="workflow"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042F2E,100:14B8A6&height=64&section=header&text=WORKFLOW&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="WORKFLOW" width="100%"/>
-
-<br/>
-
-<!-- TODO: edit this diagram so it matches the pipeline you actually use. -->
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#2DD4BF','textColor':'#E2E8F0','primaryTextColor':'#FFFFFF'}}}%%
-flowchart LR
-  DEV(["Code"]) --> GH["GitHub"] --> CI["CI pipeline<br/>build and test"] --> IMG["Container image"] --> DEP["Deploy"] --> MON["Monitor"]
-classDef node fill:#0F766E,stroke:#99F6E4,color:#FFF,stroke-width:1.5px
-class DEV,GH,CI,IMG,DEP,MON node
-```
+<p align="center"><b><code>LANGUAGES</code></b><br/>
+<img src="https://img.shields.io/badge/Java_(OpenJDK)-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java OpenJDK"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/></p>
 
 <br/>
 
@@ -90,29 +70,65 @@ class DEV,GH,CI,IMG,DEP,MON node
 
 <br/>
 
-<!-- TODO: replace each placeholder with a real project. Only add numbers you can back up. -->
+### 01 · Jenkins Deployment on an Azure Virtual Machine
 
-### 01 · Project name goes here
+> Installed and configured Jenkins on an Ubuntu VM in Azure and opened it up for browser access, as a base for CI tasks.
+>
+> [View repository](https://github.com/shraddha-24-dev/jenkins-on-azure-vm)
 
-> One sentence on what it does and why you built it.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#2DD4BF','textColor':'#E2E8F0','primaryTextColor':'#FFFFFF'}}}%%
+flowchart LR
+  B(["Browser"]) --> IP["Azure<br/>public IP"] --> NSG["Network Security<br/>Group :8080"] --> VM["Ubuntu VM"] --> J["Jenkins"]
+classDef node fill:#0F766E,stroke:#99F6E4,color:#FFF,stroke-width:1.5px
+class B,IP,NSG,VM,J node
+```
 
-- What you built (for example: a CI/CD pipeline, a Docker setup, a Terraform module)
-- A tool or decision worth mentioning
-- A problem you hit and how you fixed it
+- Created the Azure VM, connected over SSH, and installed Java (OpenJDK) and Jenkins
+- Managed the Jenkins service with `systemctl`
+- Opened port 8080 in the Network Security Group and completed the initial Jenkins setup
+- **Next:** connect Jenkins to GitHub, build CI/CD pipelines, deploy a sample Java app, add Docker
 
-<p align="center"><img src="https://img.shields.io/badge/Tool_1-0F766E?style=flat-square" alt="Tool 1"/> <img src="https://img.shields.io/badge/Tool_2-0F766E?style=flat-square" alt="Tool 2"/> <img src="https://img.shields.io/badge/Tool_3-0F766E?style=flat-square" alt="Tool 3"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Azure_VM-0078D4?style=flat-square" alt="Azure VM"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/> <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="OpenJDK"/> <img src="https://img.shields.io/badge/NSG-0078D4?style=flat-square" alt="NSG"/></p>
 
 <br/>
 
-### 02 · Project name goes here
+### 02 · Static Website Hosting on Amazon S3
 
-> One sentence on what it does and why you built it.
+> Set up Amazon S3 for static website hosting with a bucket policy and an index document.
+>
+> [View repository](https://github.com/shraddha-24-dev/aws-s3-static-website)
 
-- What you built
-- A tool or decision worth mentioning
-- A problem you hit and how you fixed it
+- Created the S3 bucket, uploaded the HTML and CSS files, and enabled static website hosting
+- Configured bucket permissions with IAM and a bucket policy, and set `index.html` as the index document
+- Tested through the S3 website endpoint
+- **Next:** finish the live S3 deployment (the site files are in the repo)
 
-<p align="center"><img src="https://img.shields.io/badge/Tool_1-0F766E?style=flat-square" alt="Tool 1"/> <img src="https://img.shields.io/badge/Tool_2-0F766E?style=flat-square" alt="Tool 2"/> <img src="https://img.shields.io/badge/Tool_3-0F766E?style=flat-square" alt="Tool 3"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Amazon_S3-FF9900?style=flat-square" alt="Amazon S3"/> <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square" alt="IAM"/> <img src="https://img.shields.io/badge/Bucket_Policy-DD344C?style=flat-square" alt="Bucket Policy"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/></p>
+
+<br/>
+
+### 03 · Microservices Project
+
+> TODO: one sentence on what it does.
+>
+> [View repository](https://github.com/shraddha-24-dev/REPO-NAME)
+
+- TODO: which services you built
+- TODO: how they talk to each other
+- TODO: how you ran or deployed them (Docker? Compose? a cloud VM?)
+
+<br/>
+
+### 04 · Student Database (CRUD) Application
+
+> TODO: one sentence on what it does.
+>
+> [View repository](https://github.com/shraddha-24-dev/REPO-NAME)
+
+- TODO: stack (language, framework, database)
+- TODO: the Create, Read, Update and Delete features
+- TODO: anything you did to run or deploy it
 
 <br/>
 
@@ -120,14 +136,11 @@ class DEV,GH,CI,IMG,DEP,MON node
 
 <br/>
 
-<!-- TODO: swap in what you are actually learning right now. -->
-
 <p align="center">
-<img src="https://img.shields.io/badge/Kubernetes-0F766E?style=for-the-badge" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/CI%2FCD-0F766E?style=for-the-badge" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/Terraform-0F766E?style=for-the-badge" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Cloud_Security-0F766E?style=for-the-badge" alt="Cloud Security"/>
-<img src="https://img.shields.io/badge/Observability-0F766E?style=for-the-badge" alt="Observability"/>
+<img src="https://img.shields.io/badge/Jenkins_Pipelines-0F766E?style=for-the-badge" alt="Jenkins Pipelines"/>
+<img src="https://img.shields.io/badge/GitHub_Integration-0F766E?style=for-the-badge" alt="GitHub Integration"/>
+<img src="https://img.shields.io/badge/Docker-0F766E?style=for-the-badge" alt="Docker"/>
+<img src="https://img.shields.io/badge/S3_Deployment-0F766E?style=for-the-badge" alt="S3 Deployment"/>
 </p>
 
 <br/>
